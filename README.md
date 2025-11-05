@@ -23,7 +23,6 @@ POE Edge delivers modular, toggleable features tailored for PoE’s ARPG mastery
 
 These are **enhancements**, not shortcuts. Every feature includes opt-in toggles and logs for transparency, so you stay in control.
 
-*(Word count so far: 512)*
 
 ## 🤔 Why Use POE Edge? The Edge You Deserve
 
